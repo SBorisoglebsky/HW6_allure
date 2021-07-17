@@ -1,0 +1,13 @@
+# Project exclude paths
+/.allure/
+/.gradle/
+/.idea/
+/build/
+/build/classes/java/test/
+/gradle/
+gradlew.bat
+settings.gradle
+gradle
+gradlew
+
+
